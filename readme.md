@@ -20,10 +20,6 @@ To mobilize data about samples held in biorepositories, the GGBN consortium has 
 
 # Reviewer's guide to the GGBN data standard
 
-Introduction to the GGBN data standard:
+**Droege, G., et. al., 2016,** The Global Genome Biodiversity Network (GGBN) Data Standard Specification. Database, Volume 2016, 2016, baw125, [https://doi.org/10.1093/database/baw125](https://doi.org/10.1093/database/baw125) 
 
- - **Droege, G., et. al., 2016,** [The Global Genome Biodiversity Network (GGBN) Data Standard Specification.pdf](https://library.ggbn.org/share/s/E3qbuKsJSwaI67IWItXCKw)
-
-The GGBN Data Standard
-
- - [GGBN on the TDWG Terms Wiki](https://terms.tdwg.org/wiki/GGBN_Data_Standard)
+The [GGBN Data Standard](https://terms.tdwg.org/wiki/GGBN_Data_Standard) on the TDWG Terms Wiki.
